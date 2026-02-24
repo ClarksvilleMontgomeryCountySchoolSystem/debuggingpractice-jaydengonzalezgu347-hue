@@ -24,8 +24,8 @@ print(f"My favorite color is {favorite_color}")
 
 # --- Snippet 4 ---
 # This should display a city name
-city = Austin
-print(f"I live in {city}")
+city_name = "Austin"
+print(f"I live in {city_name}")
 
 # --- Snippet 5 ---
 # This should display the number of pets
@@ -44,8 +44,8 @@ print(f"{greeting}")
 
 # --- Snippet 8 ---
 # This should display a temperature
-temperature = 72
-print(f"The temperature is {temperture} degrees")
+temperature = "72"
+print(f"The temperature is {temperature} degrees")
 
 # --- Snippet 9 ---
 # This should display a team name
@@ -69,13 +69,13 @@ print(f"I attend {school_name}")
 
 # --- Snippet 13 ---
 # This should display a movie title
-movie_title = Inception
+movie_title = "Inception"
 print(f"My favorite movie is {movie_title}")
 
 # --- Snippet 14 ---
 # This should display a fruit
 fruit = "apple"
-print(f"I like to eat {frut}")
+print(f"I like to eat {fruit}")
 
 # --- Snippet 15 ---
 # This should display a sport
@@ -100,7 +100,7 @@ print(f"Today is {third_day}")
 # --- Snippet 19 ---
 # This should display a state
 home_state = "Texas"
-prnt(f"I live in {home_state}")
+print(f"I live in {home_state}")
 
 # --- Snippet 20 ---
 # This should display a season
